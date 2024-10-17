@@ -1,10 +1,10 @@
 # FP1 - Project Proposal  
 ### Group 2 - Adaptive Hockey  
 
-**Shreyas Sreenivas** - 002825934  
-**Yawen Zheng** - 002682985  
-**Cristian Rodriguez Salas** - 001858128  
-
+**Shreyas Sreenivas**
+**Yawen Zheng**
+**Cristian Rodriguez Salas**
+Grad Students at Northeastern University
 ---
 
 ## 1. Problem Statement  
