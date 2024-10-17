@@ -5,7 +5,7 @@
 ##### **Yawen Zheng**
 ##### **Cristian Rodriguez Salas**
 
-##### Grad Students at Northeastern University
+#### Grad Students at Northeastern University
 ---
 
 ## 1. Problem Statement  
