@@ -1,3 +1,5 @@
+[Link to the APK and project files](https://drive.google.com/drive/folders/1eJV2vcQGeNfBjvwBtqHWkH7X1qsEPjfE?usp=sharing)
+
 ## XR App Vision
 Our XR project aims to create an immersive virtual reality (VR) training platform designed specifically for individuals with disabilities who participate in adaptive volt hockey. This application provides a safe, accessible, and engaging environment for athletes to develop both physical and cognitive skills necessary for the sport, regardless of their individual abilities. By offering a virtual space, we aim to familiarize newcomers with the sport through basic movement training while also catering to more advanced users with game scenarios and potential online multiplayer capabilities.
 
