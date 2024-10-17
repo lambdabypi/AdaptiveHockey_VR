@@ -1,11 +1,11 @@
 # FP1 - Project Proposal  
 ### Group 2 - Adaptive Hockey  
 
-**Shreyas Sreenivas**
-**Yawen Zheng**
-**Cristian Rodriguez Salas**
+##### **Shreyas Sreenivas**
+##### **Yawen Zheng**
+##### **Cristian Rodriguez Salas**
 
-Grad Students at Northeastern University
+##### Grad Students at Northeastern University
 ---
 
 ## 1. Problem Statement  
