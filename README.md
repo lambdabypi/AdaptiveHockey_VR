@@ -3,7 +3,7 @@ Our XR project aims to create an immersive virtual reality (VR) training platfor
 
 VR breaks the physical limitations of traditional training by providing consistent access to a rink-like environment without requiring specialized equipment or a physical venue. The visual and auditory elements in the XR experience simulate the real-world sensory environment, allowing athletes to build a strong understanding of the game before transitioning into real-world play. With the potential for online play, athletes could practice with others from the comfort of their homes, further enhancing accessibility.
 
-##Prototype
+## Prototype
 Our current prototype offers a foundational experience for adaptive volt hockey training in VR, combining game mechanics, physical interactions, and realistic player control to create an engaging environment. Below is a breakdown of the key features we have implemented:
 
 ### Implemented Features:
