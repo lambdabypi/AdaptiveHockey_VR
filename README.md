@@ -8,6 +8,7 @@
 #### Grad Students at Northeastern University
 ---
 [Link to the APK file](https://drive.google.com/file/d/11pDAenzBoEgGUmEXTRdpXnds3nEthQLH/view?usp=sharing)
+
 [Link to trailer video](https://youtu.be/HUoPJNg2sxw)
 ## XR App Progress Update
 
